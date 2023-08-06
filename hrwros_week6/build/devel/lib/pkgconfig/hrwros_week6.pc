@@ -1,0 +1,8 @@
+prefix=/home/ahmedhassabou/hrwros_ws/src/hrwros_week6/build/devel
+
+Name: hrwros_week6
+Description: Description of hrwros_week6
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
